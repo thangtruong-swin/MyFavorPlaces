@@ -126,21 +126,21 @@ fun CategoryDetailsCard(
 				if (item != null) {
 					Text(
 						text = item.name,
-						style = MaterialTheme.typography.bodyMedium,
-						color = MaterialTheme.colorScheme.outline,
+						style = MaterialTheme.typography.titleLarge,
+						color = MaterialTheme.colorScheme.onSurfaceVariant,
 						modifier = Modifier.padding(top = 12.dp, bottom = 8.dp),
 					)
 				}
 			} else {
 				Spacer(modifier = Modifier.height(12.dp))
 			}
-			if (item != null) {
-				Text(
-					text = item.name,
-					style = MaterialTheme.typography.titleLarge,
-					color = MaterialTheme.colorScheme.onSurfaceVariant,
-				)
-			}
+//			if (item != null) {
+//				Text(
+//					text = item.name,
+//					style = MaterialTheme.typography.titleLarge,
+//					color = MaterialTheme.colorScheme.onSurfaceVariant,
+//				)
+//			}
 			Spacer(modifier = Modifier.height(12.dp))
 			if (item != null) {
 				Text(
