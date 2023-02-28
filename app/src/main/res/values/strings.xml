@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFavorPlaces</string>
+    <string name="title">My Favor Places</string>
+    <string name="category_coffee_shops">Coffee Shops</string>
+    <string name="category_restaurant">Restaurants</string>
+    <string name="category_kid_places">Kid-friendly Places</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_shopping_center">Shopping Center</string>
+    <string name="navigation_back">Back</string>
+    <string name="CoffeeShops">CoffeeShops</string>
+    <string name="KidPlaces">KidPlaces</string>
+    <string name="Parks">Parks</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="ShoppingCenters">ShoppingCenters</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="navigation_rail">Navigation Rail</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+
+</resources>
